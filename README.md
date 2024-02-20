@@ -4,7 +4,7 @@
 
 ## Denaya's ML Journey
 
-Hello everyone 😅
+Hello everyone 😅 i am a student who is enthusiastic to learn "machine learning" and how it works. with the hope that after finishing I can understand the concept of machine learning well and have a career in this field someday. cheers to you and cheers to me too!!!
 
 - [my instagram](https://instagram.com/denaeeya)
 
