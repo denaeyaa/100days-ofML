@@ -8,7 +8,7 @@ Hello everyone 😅 i am a student who is enthusiastic to learn "machine learnin
 
 - [my instagram](https://instagram.com/denaeeya)
 
-## A
+## AWS - Machine Learning Foundation
 
 - [ ] 1 > [](Journey/001/Readme.md)
 - [ ] 2 > [](Journey/002/Readme.md)
